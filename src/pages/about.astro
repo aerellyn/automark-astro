@@ -4,7 +4,6 @@ import Base from "@/layouts/Base.astro";
 import Badge from "@/layouts/components/Badge.astro";
 import FeatureCard from "@/layouts/components/FeatureCard.astro";
 import TeamCard from "@/layouts/components/TeamCard.astro";
-import TestimonialCard from "@/layouts/components/TestimonialCard.astro";
 import GradientBlob from "@/layouts/components/GradientBlob.astro";
 import BrandsCarousel from "@/layouts/components/BrandsCarousel.astro";
 import Faq from "@/layouts/components/Faq.astro";
@@ -189,17 +188,8 @@ const d = about!.data as any;
   />
 
   <!-- Trusted By Section -->
-  <section class="section-sm pt-16 xl:pt-20">
-    <div class="container">
-      <div class="text-center mb-10">
-        <p class="text-text-light text-base">
-          Trusted by <strong class="text-primary">50,000+</strong> businesses to scale
-          Design and Develop new Tech
-        </p>
-      </div>
-      <BrandsCarousel />
-    </div>
-  </section>
+   <BrandsCarousel />
+
 
   <!-- Stats Section -->
   <section class="section relative">

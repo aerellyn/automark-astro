@@ -13,7 +13,7 @@ banner:
   button_secondary:
     label: "Book a Demo"
     link: "#"
-  image: "/images/Automark_dashboard.png"
+  image: "/images/automark_dashboard.png"
 
 partners:
   badge: "Trusted Partners"

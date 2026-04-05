@@ -30,7 +30,7 @@ const d = ourStory.data;
               
               {d.letter_points && d.letter_points.length > 0 && (
                 <>
-                  <div class="text-h6 text-text-white font-semibold text-center mb-7">Here's how we do it:</div>
+                  <div class="text-h6 text-text-white font-semibold text-center mb-7">{d.letter_points_heading ?? "Here's how we do it:"}</div>
                   <div class="flex flex-col gap-y-7 relative vertical-bg-line ">
                     {d.letter_points.map((point: string) => (
                       <div class="bg-linear-to-tl from-border to-body border border-border px-8 w-full py-2.5 rounded-full flex items-center justify-center relative z-10 gap-x-2">

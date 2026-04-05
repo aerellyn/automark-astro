@@ -5,7 +5,14 @@ import social from "@/config/social.json";
 import ImageMod from "@/layouts/components/ImageMod.astro";
 import { markdownify } from "@/lib/utils/textConverter";
 
-const { footer_primary, footer_resource, footer_legal } = menu as any;
+const {
+  footer_primary,
+  footer_resource,
+  footer_legal,
+  footer_col_1_title,
+  footer_col_2_title,
+  footer_col_3_title,
+} = menu as any;
 ---
 
 <footer class="section pb-0 relative overflow-hidden">
@@ -20,20 +27,18 @@ const { footer_primary, footer_resource, footer_legal } = menu as any;
           class="h-[50px]"
           alt="logo"
         />
-        <p class="mt-6">
-          Empowering Marketing businesses through intelligent automation.
-        </p>
+        <p class="mt-6">{config.params.footer_tagline}</p>
         <a
           class="link mt-6 inline-block underline"
-          href="mailto:contact@Automark.com">contact@Automark.com</a
-        >
-        <a class="link mt-4 block" href="tel:(+1) 165-320-0102"
-          >(+1) 165-320-0102</a
+          href={`mailto:${config.params.footer_email}`}
+        >{config.params.footer_email}</a>
+        <a class="link mt-4 block" href={`tel:${config.params.footer_phone}`}
+          >{config.params.footer_phone}</a
         >
       </div>
       <!-- Column 2 - Primary -->
       <div>
-        <h3 class="footer-label">Primary</h3>
+        <h3 class="footer-label">{footer_col_1_title}</h3>
         <ul>
           {
             footer_primary?.map((item: any) => (
@@ -48,7 +53,7 @@ const { footer_primary, footer_resource, footer_legal } = menu as any;
       </div>
       <!-- Column 3 - Resource -->
       <div>
-        <h3 class="footer-label">Resource</h3>
+        <h3 class="footer-label">{footer_col_2_title}</h3>
         <ul>
           {
             footer_resource?.map((item: any) => (
@@ -63,7 +68,7 @@ const { footer_primary, footer_resource, footer_legal } = menu as any;
       </div>
       <!-- Column 4 - Legal -->
       <div>
-        <h3 class="footer-label">Legal</h3>
+        <h3 class="footer-label">{footer_col_3_title}</h3>
         <ul>
           {
             footer_legal?.map((item: any) => (

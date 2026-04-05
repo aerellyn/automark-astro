@@ -25,6 +25,9 @@
       "url": "/features"
     }
   ],
+  "footer_col_1_title": "Primary",
+  "footer_col_2_title": "Resource",
+  "footer_col_3_title": "Legal",
   "footer_primary": [
     {
       "name": "Home",
@@ -73,6 +76,10 @@
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
+    },
+    {
+      "name": "Terms and Conditions",
+      "url": "/term-and-condition"
     }
   ]
 }

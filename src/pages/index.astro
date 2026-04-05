@@ -41,7 +41,7 @@ const d = homepage!.data as any;
             <a
               class="btn btn-primary"
               target="_blank"
-              rel="noopener"
+              rel="noopener noreferrer"
               href={d.banner.button_primary.link}
             >
               {d.banner.button_primary.label}
@@ -49,7 +49,7 @@ const d = homepage!.data as any;
             <a
               class="btn btn-outline"
               target="_blank"
-              rel="noopener"
+              rel="noopener noreferrer"
               href={d.banner.button_secondary.link}
             >
               {d.banner.button_secondary.label}
@@ -424,18 +424,7 @@ const d = homepage!.data as any;
   </section>
 
   <!-- Our Partners -->
-  <section class="section overflow-hidden">
-    <div class="container">
-      <div class="section-container">
-        <div class="section-intro centralize">
-          <p class="subtitle hasHighlight" set:html={d.our_partners.title} />
-        </div>
-        <div class="section-content">
-          <BrandsCarousel />
-        </div>
-      </div>
-    </div>
-  </section>
+     <BrandsCarousel />
 
   <!-- Single Testimonial -->
   <section class="section relative max-lg:overflow-hidden">

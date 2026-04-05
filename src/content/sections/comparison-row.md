@@ -2,6 +2,7 @@
 enable: true
 badge: ""
 title: "But It Used To Be <strong>Difficult</strong>"
+price_suffix: "/Per Month"
 items:
   - title: "Social Media Platforms"
     price: "$99"

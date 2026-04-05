@@ -1,5 +1,6 @@
 ---
 enable: true
+title: Trusted by <strong class="text-primary">50,000+</strong> businesses to scale Design and Develop new Tech
 images:
   - src: "/images/brands/dropbox-logo-svg-150px.svg"
     alt: "Dropbox"

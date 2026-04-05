@@ -6,19 +6,38 @@ draft: false
 
 page_header:
   title: "Have a question? <strong>Send us a message</strong>"
-  subtitle: "Our team is here to help. Whether you have a question about features, pricing, or anything else, our support team is ready to assist you." 
+  subtitle: "Our team is here to help. Whether you have a question about features, pricing, or anything else, our support team is ready to assist you."
 
 contact_info:
   - type: "email"
     title: "Email Us"
     detail: "Automark@gmail.com"
-    icon: "FaEnvelope" # Replacing original SVG with react-icons later or using raw svg in component. Let's just pass type.
   - type: "phone"
     title: "Call Us"
     detail: "+1 (800) 321-9876"
-    icon: "FaPhone"
   - type: "calendar"
     title: "Book A Meeting"
     detail: "calendar.app.google"
-    icon: "FaCalendar"
+
+form:
+  action: "#"
+  fields:
+    - name: "name"
+      type: "text"
+      placeholder: "Name"
+      required: true
+    - name: "email"
+      type: "email"
+      placeholder: "Email Address"
+      required: true
+    - name: "phone"
+      type: "tel"
+      placeholder: "Phone number"
+      required: true
+    - name: "message"
+      type: "textarea"
+      placeholder: "Write your message..."
+      required: true
+  terms_text: "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+  submit_label: "Send Message"
 ---

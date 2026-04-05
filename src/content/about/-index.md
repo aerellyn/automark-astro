@@ -1,12 +1,12 @@
 ---
 title: "About Us"
-meta_title: "About Us - Marketa"
+meta_title: "About Us - Automark"
 description: "Your Growth-Obsessed Marketing Partner."
 draft: false
 
 page_header:
   title: "Your Growth-Obsessed <strong>Marketing Partner.</strong>"
-  subtitle: "Marketa is a results-driven marketing agency built by a passionate team of creative minds, strategists, and problem-solvers."
+  subtitle: "Automark is a results-driven marketing agency built by a passionate team of creative minds, strategists, and problem-solvers."
   image: "/images/about_hero.png"
 
 stats:
@@ -41,7 +41,7 @@ our_team:
 core_values:
   badge: "Our Features"
   title: "And Everything Else You Need To Run <strong>Vision and Work</strong>"
-  subtitle: "Ghl-tailwind intuitive shared inbox makes it easy forteam members to organize, prioritize and solve Gustormer requests- all in familiar interfaceprioritize interfaceprioritize and solve."
+  subtitle: "Automark's intuitive shared inbox makes it easy for team members to organize, prioritize and solve customer requests — all in a familiar interface."
   items:
     - logo: "/images/icons/innovation.svg"
       title: "Revenue Growth Tools"

@@ -76,6 +76,21 @@ const contactCollection = defineCollection({
         }),
       )
       .optional(),
+    form: z
+      .object({
+        action: z.string(),
+        fields: z.array(
+          z.object({
+            name: z.string(),
+            type: z.string(),
+            placeholder: z.string(),
+            required: z.boolean().optional(),
+          }),
+        ),
+        terms_text: z.string(),
+        submit_label: z.string(),
+      })
+      .optional(),
   }),
 });
 
@@ -464,6 +479,7 @@ const comparisonRowSectionCollection = defineCollection({
     enable: z.boolean(),
     badge: z.string().optional(),
     title: z.string(),
+    price_suffix: z.string().optional(),
     items: z.array(
       z.object({
         title: z.string(),
@@ -490,6 +506,7 @@ const brandsSectionCollection = defineCollection({
   loader: glob({ pattern: "brands.{md,mdx}", base: "src/content/sections" }),
   schema: z.object({
     enable: z.boolean(),
+    title: z.string(),
     images: z.array(z.object({ src: z.string(), alt: z.string() })),
   }),
 });
@@ -502,6 +519,7 @@ const ourStorySectionCollection = defineCollection({
     title: z.string(),
     ceo: z.object({ image: z.string(), name: z.string(), role: z.string() }),
     letter: z.string(),
+    letter_points_heading: z.string().optional(),
     letter_points: z.array(z.string()),
     letter_p2: z.string().optional(),
     button: z.object({ label: z.string(), link: z.string() }),

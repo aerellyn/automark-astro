@@ -4,14 +4,14 @@ banner:
   content: "The all-in-one marketing and sales platform designed to capture more leads, automate your follow-ups, and grow your revenue - all in one place."
   button_primary:
     label: "Start Free Trial"
-    link: "https://github.com/teamosis-products/ghl-tailwind"
+    link: "#"
   button_secondary:
     label: "Book a Demo"
-    link: "https://github.com/teamosis-products/ghl-tailwind"
+    link: "#"
 
 main_features:
   title: "Are you tired of losing Marketing leads to the <strong>”Follow-up Gaps”</strong>"
-  content: "Ghl-tailwind intuitive shared inbox makes it easy forteam members to organize, prioritize and solve Gustormer requests- all in familiar interfaceprioritize interfaceprioritize and solve."
+  content: "Automark's intuitive shared inbox makes it easy for team members to organize, prioritize and solve customer requests — all in a familiar interface."
   items:
     - "Wasted Ad Spend"
     - "Expensive 'Franken-stack' of tools"
@@ -22,7 +22,7 @@ main_features:
 
 value_props:
   title: "Are you tired of losing Marketing leads to the <strong>”Follow-up Gaps”</strong>"
-  content: "Ghl-tailwind intuitive shared inbox makes it easy forteam members to organize, prioritize and solve Gustormer requests- all in familiar interfaceprioritize interfaceprioritize and solve."
+  content: "Automark's intuitive shared inbox makes it easy for team members to organize, prioritize and solve customer requests — all in a familiar interface."
   items:
     - logo: "/images/value-proposition/values-icon-1.svg"
       title: "Revenue Growth Tools"
@@ -51,7 +51,7 @@ value_props:
 
 our_features:
   title: "And Everything Else You Need To Run <strong>Your Business</strong>"
-  content: "Ghl-tailwind intuitive shared inbox makes it easy forteam members to organize, prioritize and solve Gustormer requests- all in familiar interfaceprioritize interfaceprioritize and solve."
+  content: "Automark's intuitive shared inbox makes it easy for team members to organize, prioritize and solve customer requests — all in a familiar interface."
   items:
     - logo: "/images/features-menu-icon.svg"
       title: "Revenue Growth Tools"
@@ -94,7 +94,7 @@ our_partners:
 
 single_testimonial:
   stats:
-    - value: "10,4603+"
+    - value: "10,460+"
       label: "Lead Captured"
     - value: "5x Faster"
       label: "Response Time"
