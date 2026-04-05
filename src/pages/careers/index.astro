@@ -66,7 +66,7 @@ const jobs = await getCollection("careers", ({ id }) => !id.startsWith("-index")
       </div>
       <div class="section-content">
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 mb-9">
-          {d.offers?.map((offer: any) => (
+          {d.what_we_offer?.offers?.map((offer: any) => (
             <VpCard logo={offer.logo} title={offer.title} list={offer.list} />
           ))} 
         </div>

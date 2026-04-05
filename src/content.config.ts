@@ -65,7 +65,9 @@ const contactCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/contact" }),
   schema: z.object({
     ...commonFields,
-    page_header: z.object({ title: z.string(), subtitle: z.string() }).optional(),
+    page_header: z
+      .object({ title: z.string(), subtitle: z.string() })
+      .optional(),
     contact_info: z
       .array(
         z.object({
@@ -159,9 +161,7 @@ const homepageCollection = defineCollection({
         quote: z.string(),
       })
       .optional(),
-    our_partners: z
-      .object({ badge: z.string().optional(), title: z.string() })
-      .optional(),
+
     single_testimonial: z
       .object({
         stats: z.array(z.object({ value: z.string(), label: z.string() })),
@@ -314,7 +314,9 @@ const caseStudyCollection = defineCollection({
     hero_image: z.string().optional(),
     thumbnail: z.string().optional(),
     meta: z
-      .array(z.object({ label: z.string(), value: z.string(),icon: z.string() }))
+      .array(
+        z.object({ label: z.string(), value: z.string(), icon: z.string() }),
+      )
       .optional(),
     logo: z.string().optional(),
     company: z.string().optional(),
@@ -376,17 +378,21 @@ const careersCollection = defineCollection({
       )
       .optional(),
     what_we_offer: z
-      .object({ title: z.string(), subtitle: z.string() })
+      .object({
+        title: z.string(),
+        subtitle: z.string(),
+        offers: z
+          .array(
+            z.object({
+              logo: z.string(),
+              title: z.string(),
+              list: z.array(z.string()).optional(),
+            }),
+          )
+          .optional(),
+      })
       .optional(),
-    offers: z
-      .array(
-        z.object({
-          logo: z.string(),
-          title: z.string(),
-          list: z.array(z.string()).optional(),
-        }),
-      )
-      .optional(),
+
     staff_testimonials: z
       .array(
         z.object({
@@ -511,7 +517,7 @@ const testimonialSectionCollection = defineCollection({
         designation: z.string(),
         poster: z.string(),
         content: z.string(),
-          video: z.string().optional(),
+        video: z.string().optional(),
       }),
     ),
   }),

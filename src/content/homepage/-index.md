@@ -89,8 +89,7 @@ testimonial_quote:
   title: "We know you didn't start your [Niche] business to Become a dull-time <strong>Software Engineer</strong>"
   quote: "Before [Agency Name], I was losing half my leads because I couldn't get to my phone fast enough. Now, the system handles the follow-up for me, and l've seen a [Percentage] jump in bookings."
 
-our_partners:
-  title: "Trusted by <strong>50,000+</strong> businesses to scale Design and Develop new Tech"
+
 
 single_testimonial:
   stats:
@@ -157,19 +156,6 @@ lead_generation:
 pricing:
   title: "Our Affordable <strong>Pricing Plans</strong>"
   content: "Choose the plan that fits your business and start your free trial today."
-  plans:
-    - price: "20"
-      yearly_price: "15"
-      title: "Basic Plan"
-      isFeatured: false
-    - price: "70"
-      yearly_price: "49"
-      title: "Pro Plan"
-      isFeatured: true
-    - price: "99"
-      yearly_price: "80"
-      title: "Enterprise Plan"
-      isFeatured: false
 
 
 ---
