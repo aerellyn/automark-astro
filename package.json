@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Automark is a marketing and sales automation platform",
   "author": "Themefisher",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "packageManager": "yarn@1.22.22",
   "type": "module",
   "scripts": {

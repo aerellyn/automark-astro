@@ -55,7 +55,7 @@ service_features:
       image: "/images/features/service-feature-1.svg"
       reverse: false
       items:
-        - icon: FaZap
+        - icon: FaBolt
           title: "Lightning Fast Performance"
           content: "Optimized for speed with response times under 100ms."
         - icon: FaBrain
