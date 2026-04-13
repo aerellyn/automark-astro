@@ -1,7 +1,7 @@
 ---
-title: "How AI Predicts Buyer Intent Before They Convert"
-meta_title: "How AI Predicts Buyer Intent - Automark Blog"
-description: "This blog dives into buyer intent prediction and explains how AI identifies high-value prospects using data patterns."
+title: "How to Stop Losing Deals to Missed Calls"
+meta_title: "Stop Losing Deals to Missed Calls - Blog"
+description: "Missed calls cost thousands. Learn how an Auto-Responder text can save your next customer."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-5.png"
 author: "Leslie Alexander"

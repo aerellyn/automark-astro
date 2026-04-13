@@ -1,7 +1,7 @@
 ---
-title: "From Leads to Loyalty: Building Smarter Funnels with AI"
-meta_title: "Building Smarter Funnels with AI - Automark Blog"
-description: "A modern funnel isn't linear, it's intelligent. Discover how AI-powered funnels adapt to user behavior in real time."
+title: "From Leads to Appointments: Building Smarter Local Funnels"
+meta_title: "Building Smarter Local Funnels - Blog"
+description: "Discover how automated follow-up funnels adapt to your leads in real time, booking more appointments."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-2.png"
 author: "Theresa Webb"

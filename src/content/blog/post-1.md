@@ -1,7 +1,7 @@
 ---
-title: "The Future of Marketing & Sales Is Fully Automated"
-meta_title: "The Future of Marketing & Sales Is Fully Automated - Automark Blog"
-description: "Manual workflows slow teams down. In this blog, we explore how AI-driven automation is transforming marketing and sales."
+title: "Why You Need a Missed Call Auto-Responder Today"
+meta_title: "Missed Call Auto-Responder - Blog"
+description: "Manual workflows slow teams down. We explore how automating missed calls saves local businesses thousands."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-1.png"
 author: "Theresa Webb"

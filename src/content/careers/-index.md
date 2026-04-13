@@ -1,12 +1,12 @@
 ---
 title: "Careers"
-meta_title: "Careers at Automark - Build the Future With Us"
-description: "Join Automark and help build the future of AI-powered marketing automation."
+meta_title: "Careers - Join Our Local Business Growth Team"
+description: "Join us and help empower local businesses with automated tools for their community growth."
 image: ""
 draft: false
 
 page_header:
-  title: "Build the Future <strong>With Us</strong>"
+  title: "Help Us Grow <strong>Local Businesses</strong>"
 
 gallery:
   enable: true

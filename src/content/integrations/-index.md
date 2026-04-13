@@ -1,7 +1,7 @@
 ---
 title: "Integrations"
-meta_title: "Integrations - Automark"
-description: "Seamlessly connect Automark with your favorite tools and platforms."
+meta_title: "Integrations - All-In-One Local Business Software"
+description: "Seamlessly connect our platform with your favorite local business tools."
 image: ""
 draft: false
 

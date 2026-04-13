@@ -1,7 +1,7 @@
 ---
-title: "Why Traditional CRMs Are Failing & What AI Does Better"
-meta_title: "Why Traditional CRMs Are Failing - Automark Blog"
-description: "This article breaks down the limitations of traditional CRM tools and explains how AI-driven platforms provide better prediction."
+title: "Why Traditional Spreadsheets Are Failing Local Businesses"
+meta_title: "Why Spreadsheets Are Failing Local Businesses - Blog"
+description: "This article breaks down why disorganized customer tracking fails and how a Smart Unified Inbox helps."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-3.png"
 author: "Kathryn Murphy"

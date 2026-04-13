@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Trusted by <strong class="text-primary">50,000+</strong> businesses to scale Design and Develop new Tech
+title: Trusted by <strong class="text-primary">10,000+</strong> local businesses to scale their bookings and growth automatically.
 images:
   - src: "/images/brands/dropbox-logo-svg-150px.svg"
     alt: "Dropbox"

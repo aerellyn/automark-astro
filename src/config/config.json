@@ -10,11 +10,9 @@
     "logo_height": "45",
     "logo_text": "Automark"
   },
-
   "settings": {
     "sticky_header": true
   },
-
   "params": {
     "contact_form_action": "#",
     "checklist_form_action": "#",
@@ -24,18 +22,15 @@
     "footer_email": "contact@Automark.com",
     "footer_phone": "(+1) 165-320-0102"
   },
-
   "navigation_button": {
     "enable": true,
-    "label": "Get In Touch",
-    "link": "https://themefisher.com/products/automark-astro"
+    "label": "Get This Template",
+    "link": "https://themefisher.com/products/automark-astro?aff=automarkdemo"
   },
-
   "google_tag_manager": {
     "enable": false,
     "gtm_id": "GTM-XXXXXX"
   },
-
   "metadata": {
     "meta_author": "Automark",
     "meta_image": "/images/og-image.png",

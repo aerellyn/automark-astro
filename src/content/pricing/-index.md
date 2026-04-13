@@ -1,85 +1,85 @@
 ---
 title: "Pricing"
-meta_title: "Pricing - Automark"
-description: "Simple, transparent pricing for every stage of your business growth."
+meta_title: "Pricing - All-In-One Local Business Software"
+description: "Simple, transparent pricing for every stage of your local business growth."
 image: ""
 draft: false
 
 page_header:
   badge: "Pricing"
-  title: "Pricing Built For Every Stage Of Growth"
-  content: "Start free, scale as you grow. No contracts. No hidden fees."
+  title: "Pricing Built For Local Business Growth"
+  content: "Start your free 14-day trial, scale as you grow. No contracts. Cancel anytime."
 
 toggler:
   monthly_label: "Monthly"
   yearly_label: "Yearly"
 
 plans:
-  - title: "Basic Plan"
-    price: "20"
-    yearly_price: "15"
+  - title: "Essentials"
+    price: "97"
+    yearly_price: "970"
     is_featured: false
     button:
       enable: true
-      label: "Get Access"
+      label: "Start Free Trial"
       link: "/contact"
-    description: "Our introductory pricing. This will give you the core necessities."
+    description: "The core necessities for organizing your leads and capturing more business."
     features:
-      - label: "Up to 10 Members"
+      - label: "Unified Lead Inbox"
         included: true
-      - label: "Unlimited Usage"
+      - label: "Missed Call Auto-Responder"
         included: true
-        tooltip: "Detailed usage limits can be found in our Terms of Service."
-      - label: "Concierge Help Center"
+        tooltip: "Automatically text back missed calls."
+      - label: "Autopilot Review Generator"
         included: true
-      - label: "Mobile Accessibility"
+      - label: "24/7 Appointment Scheduler"
         included: false
-      - label: "Quick Support"
+      - label: "Automated Follow-Up Campaigns"
         included: false
 
-  - title: "Pro Plan"
-    price: "70"
-    yearly_price: "49"
+  - title: "Growth"
+    price: "297"
+    yearly_price: "2970"
     is_featured: true
-    offer_text: 30% save
+    offer_text: Most Popular
     button:
       enable: true
-      label: "Get Access"
+      label: "Start Free Trial"
       link: "/contact"
-    description: "Our introductory pricing. This will give you the core necessities."
+    description: "Everything you need to put your business growth on complete autopilot."
     features:
-      - label: "Up to 10 Members"
+      - label: "Unified Lead Inbox & Reviews"
         included: true
-      - label: "Unlimited Usage"
+      - label: "24/7 Appointment Scheduler"
         included: true
-        tooltip: "Detailed usage limits can be found in our Terms of Service."
-      - label: "Concierge Help Center"
+        tooltip: "Unlimited calendars and bookings."
+      - label: "Automated Follow-Up Campaigns"
         included: true
-      - label: "Mobile Accessibility"
+      - label: "High-Converting Websites & Funnels"
         included: true
-      - label: "Quick Support"
+      - label: "Advanced API Integrations"
         included: false
 
-  - title: "Enterprise Plan"
-    price: "99"
-    yearly_price: "80"
+  - title: "Scale"
+    price: "497"
+    yearly_price: "4970"
     is_featured: false
     button:
       enable: true
-      label: "Get Access"
+      label: "Start Free Trial"
       link: "/contact"
-    description: "Our introductory pricing. This will give you the core necessities."
+    description: "Total control and advanced tools to scale multiple locations seamlessly."
     features:
-      - label: "Up to 10 Members"
+      - label: "Everything in Growth"
         included: true
-      - label: "Unlimited Usage"
+      - label: "Unlimited Social Media Posting"
         included: true
-        tooltip: "Detailed usage limits can be found in our Terms of Service."
-      - label: "Concierge Help Center"
+        tooltip: "Schedule content across all platforms."
+      - label: "Advanced API Integrations"
         included: true
-      - label: "Mobile Accessibility"
+      - label: "Multi-Location Support"
         included: true
-      - label: "Quick Support"
+      - label: "Dedicated Account Manager"
         included: true
 
 comparison:
@@ -88,28 +88,28 @@ comparison:
   title: "Pricing Plans <strong>Comparison</strong>"
   headers:
     - label: "Features"
-    - label: "Basic Plan"
-    - label: "Pro Plan"
-    - label: "Advanced Plan"
+    - label: "Essentials"
+    - label: "Growth"
+    - label: "Scale"
   rows:
     - feature: "Monthly Price"
-      values: ["$39", "$69", "$99"]
+      values: ["$97", "$297", "$497"]
     - feature: "User Accounts"
-      values: ["1", "Up to 5", "Unlimited"]
-    - feature: "Email/SMS Campaigns"
-      values: ["1,000/month", "50,000/month", "Unlimited"]
-    - feature: "Multi-Channel Messaging"
-      values: ["Unlimited", true, "Unlimited"]
-    - feature: "Drag & Drop Editor"
+      values: ["3", "10", "Unlimited"]
+    - feature: "Unified Lead Inbox"
       values: [true, true, true]
-    - feature: "A/B Automark"
-      values: [false, false, true]
-    - feature: "Advanced Analytics & Reporting"
+    - feature: "Missed Call Auto-Responder"
+      values: [true, true, true]
+    - feature: "Autopilot Review Generator"
+      values: [true, true, true]
+    - feature: "24/7 Appointment Scheduler"
       values: [false, true, true]
-    - feature: "Integrations (CRM, Ads, APIs)"
-      values: ["Basic", "Standard", "Advanced"]
-    - feature: "Customer Support"
-      values: ["Community", "Email Support", "Dedicated Managed"]
-    - feature: "Custom Branding"
+    - feature: "Website & Funnel Builder"
+      values: [false, true, true]
+    - feature: "Automated SMS/Email Campaigns"
+      values: [false, true, true]
+    - feature: "Multi-Location Management"
       values: [false, false, true]
+    - feature: "Support"
+      values: ["Email Support", "Priority Support", "Dedicated Manager"]
 ---

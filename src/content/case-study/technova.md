@@ -1,33 +1,33 @@
 ---
-title: "TechNova Grows Revenue by 320% in 90 Days"
-meta_title: "TechNova Case Study - Automark"
-description: "How TechNova used Automark's automation to triple their revenue in just 90 days."
+title: "TechNova Dental Grows Revenue by 320% in 90 Days"
+meta_title: "TechNova Dental Case Study"
+description: "How TechNova Dental used our automation platform to triple their patient appointments."
 date: 2024-02-15
 draft: false
 
 image: "/images/case-study-hero-2.png"
 thumbnail: "/images/case-study-hero-2.png"
 
-badge: "SaaS"
+badge: "Healthcare"
 logo: "/images/brands/dropbox-logo-svg-150px.svg"
-company: "Dropbox"
+company: "TechNova Dental"
 
 stats:
   - value: "30%"
-    label: "Increase in website traffic"
+    label: "More appointments"
   - value: "50%"
-    label: "Target keywords ranked"
+    label: "Less no-shows"
 
 client_info:
   - icon: "/images/icons/careerdevelopment.svg"
     label: "Client"
-    value: "TechNova"
+    value: "TechNova Dental"
   - icon: "/images/icons/healthicon.svg"
     label: "Industry"
-    value: "SaaS"
+    value: "Healthcare"
   - icon: "/images/icons/paidtimeoff.svg"
     label: "Service"
-    value: "Marketing Automation"
+    value: "Patient Automation"
   - icon: "/images/icons/wellbeing.svg"
     label: "Date"
     value: "15 Feb 2024"
@@ -36,48 +36,45 @@ overview:
   image: "/images/case-study-overview.png"
   title: "Overview"
   content: |
-    TechNova is a fast-growing SaaS company that provides project management tools to remote teams worldwide.
+    TechNova Dental is a fast-growing local practice that wanted to increase their patient volume.
 
-    Before Automark, TechNova struggled with manual outreach and inconsistent follow-up sequences that led to poor trial-to-paid conversion rates.
+    Before our software, their front desk struggled with manual appointment reminders and following up with old patients.
 
-    They needed a scalable system to automate their onboarding emails, nurture free trial users, and convert them to paying customers.
+    They needed a scalable system to automate their booking process and reactivate past patients.
 
 challenges:
   title: "Challenges"
   content: |
-    TechNova's sales team was spending over 30 hours a week on manual follow-ups with no clear system for prioritizing hot leads.
+    The front desk was spending over 30 hours a week on manual calls with no clear priority.
 
-    Their email open rates were below 12% and conversion from trial to paid was stuck at 3%.
-
-    Without proper automation, scaling their outreach meant hiring more staff — an expensive proposition.
-  quote: "We were drowning in manual work. Automark gave us back our time and helped us actually close deals instead of just chasing them."
+    Their patient no-show rate was climbing.
+  quote: "We were drowning in manual work. This software gave our front desk back their time and filled our calendar."
   quote_author:
     name: "Marcus Chen"
-    designation: "Head of Growth"
+    designation: "Practice Manager"
     avatar: "/images/avatar.png"
 
 solution:
   image: "/images/case-study-solution.png"
   title: "Solution"
-  content: "Automark implemented a full-funnel automation strategy that turned TechNova's trial users into loyal paying customers."
+  content: "We implemented appointment automation and reactivation campaigns."
   items:
-    - "Behavioral-trigger email sequences based on in-app actions"
-    - "Automated SMS follow-ups for trial users nearing expiration"
-    - "Lead scoring model to prioritize high-intent prospects"
-    - "Personalized onboarding workflows for different user segments"
-    - "Real-time conversion dashboard with actionable insights"
+    - "Automated SMS appointment reminders"
+    - "Database reactivation text campaigns"
+    - "24/7 web booking widget"
+    - "Automated Google Review requests"
 
 results:
   title: "Results"
   content: |
-    In just 90 days, TechNova saw a 320% increase in revenue and their trial-to-paid conversion jumped from 3% to 18%.
+    In just 90 days, TechNova Dental saw a 320% increase in reactivated patients.
 
-    The team reclaimed over 30 hours per week previously spent on manual tasks and reinvested that time into product development.
+    The front desk reclaimed 30 hours per week previously spent on manual confirmation calls.
   metrics:
     - value: "320%"
-      label: "Revenue growth"
+      label: "More Patients"
     - value: "18%"
-      label: "Conversion rate"
+      label: "Lower No-Shows"
     - value: "30hrs"
       label: "Saved weekly"
 ---

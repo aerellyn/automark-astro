@@ -1,7 +1,7 @@
 ---
-title: "Hyper-Personalization at Scale: AI's Biggest Advantage"
-meta_title: "Hyper-Personalization at Scale - Automark Blog"
-description: "Learn how AI analyzes behavior, intent, and engagement signals to create personalized campaigns at scale."
+title: "Automated Review Generation: Your Biggest Local Advantage"
+meta_title: "Automated Review Generation - Blog"
+description: "Learn how asking for reviews on autopilot can double your local Google visibility."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-4.png"
 author: "Savannah Nguyen"

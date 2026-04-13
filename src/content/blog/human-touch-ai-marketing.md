@@ -1,7 +1,7 @@
 ---
-title: "The Human Touch In AI Marketing: Finding the Right Balance"
-meta_title: "The Human Touch In AI Marketing - Automark Blog"
-description: "AI is powerful, but emotion still wins. Here's how to merge automation with authenticity to create campaigns that truly connect."
+title: "The All-In-One Shift: Why Local Shops Are Consolidating Software"
+meta_title: "The All-In-One Shift - Blog"
+description: "Instead of paying for 5 different clunky tools, local businesses are moving to unified software."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/featured-cover.png"
 author: "Theresa Webb"

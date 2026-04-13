@@ -1,7 +1,7 @@
 ---
-title: "Automating Follow-Ups Without Losing the Human Touch"
-meta_title: "Automating Follow-Ups Without Losing the Human Touch - Automark Blog"
-description: "Discover how AI automation can handle emails, messages, and reminders while maintaining a natural, human tone."
+title: "Automating Marketing Without Losing Your Local Touch"
+meta_title: "Local Marketing Automation - Blog"
+description: "Discover how automation can handle texts and reminders while maintaining a natural, community tone."
 date: 2025-01-20T05:00:00Z
 image: "/images/blog/post-6.png"
 author: "Courtney Henry"
