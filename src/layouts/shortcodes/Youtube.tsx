@@ -13,12 +13,12 @@ const Youtube = ({
     import("@justinribeiro/lite-youtube");
   }, []);
 
-  return React.createElement("lite-youtube", {
-    className: "rounded-lg",
-    videoid: id,
-    videotitle: title,
-    ...rest,
-  });
+  return (
+    <div className="rounded-lg overflow-hidden">
+      {/* @ts-ignore */}
+      <lite-youtube videoid={id} videotitle={title} {...rest} />
+    </div>
+  );
 };
 
 export default Youtube;
