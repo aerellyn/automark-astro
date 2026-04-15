@@ -1,5 +1,5 @@
-<h1 align=center>Automark - Astro + GoHighLevel Website Template</h1>
-<p align=center> Automark is a high-end, feature-rich Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.
+<h1 align=center>Automark - Free Astro + GoHighLevel SaaS Website Template</h1>
+<p align=center> Automark is a free Astro SaaS theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.
 </p>
 
 <h2 align="center"> 
@@ -29,29 +29,29 @@ The template is **Agent-Ready**, featuring a dedicated .agents/skills directory 
 
 ## 🔑 Key Features
 
-- 🤖 **Agentic IDE Support**: Pre-configured with .agents/skills for peak performance in Cursor, Antigravity, and Claude Code.
-- 📄 **10+ Conversion-Focused Pages**: (Home, Features, Pricing, Case Studies, etc.)
-- 🔗 **Deep GoHighLevel Integration**: (Leads, Contacts, Conversations, and Calendar booking)
-- 💰 **Stripe Subscription Suite**: (Automated checkout sessions and GHL contact tagging via webhooks)
-- ⚡ **Blazing Performance**: (Built with Astro 6+ and Tailwind CSS 4 for near-perfect Lighthouse scores)
-- ✍️ **Content-First Design**: (Markdown/MDX support for Blog, Careers, and Case Studies)
-- 🔍 **SEO-Friendly**: (Automatic OG images, sitemap generation, and schema-friendly structure)
-- 📱 **Fully Responsive**: (Optimized for all devices with premium dark-mode aesthetics)
+* **Native GoHighLevel integration** for leads, contacts, conversations, calendar booking, and more.
+* **Stripe subscription suite** with automated checkout sessions and GHL contact tagging via webhooks
+* **10+ conversion-focused pages** covering every section a SaaS reseller website needs
+* **Agentic IDE support** with a pre-configured `.agents/skills` directory for Cursor, Claude Code, and VS Code
+* **100 Google** [**PageSpeed score**](https://pagespeed.web.dev/analysis/https-automark-astro-vercel-app/xtvggyeeh3?form_factor=desktop) (Desktop)
+* **Built with Astro 6 and Tailwind CSS 4** for minimal JavaScript output and fast load times
+* **MDX support** for blog posts, case studies, and careers pages
+* **Automatic OG images and sitemap generation** with schema-friendly markup throughout
+* **Interactive pricing table** with monthly/yearly toggle built in
 
 ## 📄 Pre-Designed Pages
 
-- 🏠 **Home**: High-conversion landing page with automation focus.
-- 🏢 **About**: Showcase your team, mission, and company values.
-- ⚡ **Features**: Detailed breakdown of automation and growth tools.
-- 🔌 **Integrations**: Display your ecosystem with a sleek grid layout.
-- 💰 **Pricing**: Interactive pricing tiers with monthly/yearly switching.
-- 📚 **Blog**: Full-featured blog with category and single post support.
-- 👔 **Careers**: Job listings with individual position pages.
-- 🔬 **Case Studies**: Portfolio of client success stories.
-- 📞 **Contact**: GHL-integrated form and calendar booking.
-- 🎨 **Elements**: Reusable UI components for consistent design.
-- ⚖️ **Legal Pages**: Professional Privacy Policy and Terms templates.
-- 🚧 **404 Page**: Custom error page.
+1. **Home**: High-conversion landing page with automation focus.
+2. **About**: Showcase your team, mission, and company values.
+3. **Features**: Detailed breakdown of automation and growth tools.
+4. **Integrations**: Display your ecosystem with a sleek grid layout.
+5. **Pricing**: Interactive pricing tiers with monthly/yearly switching.
+6. **Blog**: Full-featured blog with category and single post support.
+7. **Careers**: Job listings with individual position pages.
+8. **Case Studies**: Portfolio of client success stories.
+9. **Contact**: GHL-integrated form and calendar booking.
+10. **Legal Pages**: Professional Privacy Policy and Terms templates.
+11. **404 Page**: Custom error page.
 
 ## ⚙️Installation
 
@@ -132,9 +132,5 @@ We use GitHub Issues as the official bug tracker. Please Search [existing issues
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-👉**Code License:** Released under the [MIT](LICENSE) license.
-👉**Image license:** Demonstration purposes only.
-
-## 👨💻Need Custom Development Services?
-
-We help businesses create fast, scalable & secure websites based on NextJs, Hugo, Astro, and more. If you need a custom theme or professional services, [Hire Us](https://themefisher.com/contact).
+- **Code License:** Released under the [MIT](LICENSE) license.
+- **Image license:** Demonstration purposes only.
