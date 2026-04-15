@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/contributors/themefisher/automark-astro" alt="contributors"></a>
 </p>
 
-![automark-astro](https://assets.teamosis.com/thumbs/automark.png)
+<img width="1600" height="900" alt="automark-astro-gohighlevel-template" src="https://github.com/user-attachments/assets/dc93ae19-4e8a-46e3-b5b6-41c7bd46870c" />
 
 While most resellers use the same stock templates, Automark gives you a modern, bespoke look to differentiate your brand. It comes pre-integrated with **GoHighLevel** for CRM/Lead management and **Stripe** for subscription handling, allowing you to launch a professional SaaS presence in minutes.
 
